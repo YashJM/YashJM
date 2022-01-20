@@ -1,10 +1,10 @@
-### Hi there 👋
-### I am a, 
+# Hi there 👋
+# I am a, 
 ## Developer 👨‍💻
 ## Software QA Tester 🧪
 ## Gamer 🎮
 
-# and I absolutely love what I do!
+### and I absolutely love what I do!
 <!--
 **YashJM/YashJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
